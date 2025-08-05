@@ -3,7 +3,12 @@
 
 # Introduction 
 I am an undergraduate student within the University of Gloucestershire studying a Bachelor's degree in Computer Science. A young individual programmer interested in software development and machine learning, utilizing Java and many more programming langauges to come, aspiring to become a prolific Java Software Engineer/Developer with the abilities to develop high quality scalable applications while integrating Natural Language Processing and Machine Learning to automate processes. My experience with programming spans from multiple projects, incorporating data structures and algorithms, object-oriented and functional programming, user interface development, web frameworks and database access. These projects encourage me to update my technical skillset and break out of my comfort zone, applying myself to configure successful programs with efficient techniques, taking pride in my creations or contributions. Apart from software development, my hobbies include playing football⚽ on the field and chess♟ on the board. Maybe one day, we could play one of these games together and talk 😉
-<br><br>
+
+Instagram -> https://www.instagram.com/sommy.wtf <br><br>
+LinkedIn -> https://www.linkedin.com/in/somtoezeoke19/ <br><br>
+Twitter -> https://x.com/SomtoEzeoke <br><br>
+Email -> somtoezeoke.develop@gmail.com <br><br>
+
 # Technical Skillset
 #### 💻 Programming Languages & Frameworks
 Java -> SpringBoot, Javalin, JDBC, Maven, Gradle, JUnit, JMeter, TinyLog, Stream API, REST API, Java SWING, JavaFX <br><br>
