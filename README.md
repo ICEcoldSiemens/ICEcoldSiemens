@@ -2,7 +2,7 @@
 
 
 # Introduction 
-I am a final year undergraduate student studying for a Bachelor's degree in Computer Science within the University of Gloucestershire. An experienced Java programmer interested in software development and machine learning, utilizing Java and many more programming languages to build enterprise-level applications. Currently working on constructing and improving high-performing ML models and previous projects, incorporating better technical features and techniques for efficiency. These projects encourage me to be creative and break out of my comfort zone, applying effort and resilence to successfully configure. I take pride in my creations or contributions. Apart from software development, my hobbies include playing football on the field and chess on the board. Feel free to communicate with me below. <br><br>
+I am a final year undergraduate student studying for a Bachelor's degree in Computer Science within the University of Gloucestershire. An experienced Java programmer interested in software development and machine learning, utilizing Java and many more programming languages to build enterprise-level applications. Currently working on constructing and improving high-performing ML models and previous projects, incorporating better technical features and techniques for efficiency. These projects encourage me to be creative and break out of my comfort zone, applying effort and resilence to successfully configure. I take pride in my creations or contributions. Apart from software development, my hobbies include playing football on the field and chess on the board. Feel free to communicate below. <br><br>
 
 # Technical Skillset
 #### 💻 Programming Languages & Frameworks
