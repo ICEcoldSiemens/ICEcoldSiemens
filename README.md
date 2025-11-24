@@ -6,20 +6,21 @@ I am a final year undergraduate student studying for a Bachelor's degree in Comp
 
 # Technical Skillset
 #### 💻 Programming Languages & Frameworks
-Java -> Spring Boot, Spring Cloud, JDBC, Maven, Gradle, JUnit, JMeter, TinyLog, Stream API, REST API, Java SWING, JavaFX <br><br>
+Java -> Spring Boot, Spring Cloud, Maven, Gradle, JUnit, Stream API, REST API, Java SWING, JavaFX <br><br>
+Python -> TensorFlow, PyTorch, NumPy, Pandas, Tkinter, Sklearn <br><br>
 
 #### 🤺 Techniques & Practices
-Object-Oriented Programming, Multithreading, Data Structures and Algorithms (Java Collections Framework), Input/Output Operation with files, Exceptions Handling, Java 8+ features (lambdas, optionals, dependency injection, functional interfaces, streams) <br><br>
+Docker, Object-Oriented Programming, Multithreading, Concurrency, Data Structures and Algorithms (Java Collections Framework), Microservices, AWS Cloud (EC2, S3, Lambda), CI/CD Pipelines, Software Design Patterns, Input/Output Operation with files, Exceptions Handling, Java 8+ features (lambdas, optionals, dependency injection, functional interfaces, streams), Data Preprocessing, Hyperparameter Tuning, Intepreting Evaluation Metrics, Data Visualisation, Predictive Analytics <br><br>
 
 #### 📘 Databases
-mySQL, MongoDB, SQLite <br><br>
+mySQL, MongoDB, SQLite, Oracle <br><br>
 
 #### 🔄 Version Control Systems
 Git, GitHub <br><br>
 
 #### ⚙️ Other competencies
 Ability to work in an Agile team (Scrum) <br><br>
-Organisation and Presentation skills (Microsoft 365 applications)<br><br>
+Organisation and Presentation skills (Microsoft 365 applications) <br><br>
 
 # Experiences & Projects 
 IEUK 2025 Virtual Internship (Bright Network) -> Tasked with constructing a 200 word report and develop a network traffic log analyser program based on the scenario of a startup music streaming website's performance gradually reducing as servers become overwhelmed with unexpected spikes of network traffic. Applied problem solving with intuition to generate and specifiy potential problems with soluions on the traffic log, documenting relevant information and recommendations, revealing suspicious bot activity leading to a denial of service attack. 
